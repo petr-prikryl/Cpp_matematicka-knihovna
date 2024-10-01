@@ -16,4 +16,4 @@ SimpleMath je jednoduchá C++ knihovna pro základní matematické operace a fun
 ## Instalace
 1. Klonujte tento repozitář do svého místního počítače.
    ```bash
-   git clone https://github.com/vase-uzivatelske-jmeno/SimpleMath.git
+   git clone https://github.com/petr-prikryl/Cpp_matematicka-knihovna.git

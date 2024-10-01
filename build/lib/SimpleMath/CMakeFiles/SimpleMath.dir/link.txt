@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libSimpleMath.a CMakeFiles/SimpleMath.dir/SimpleMath.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libSimpleMath.a

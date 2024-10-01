@@ -59,7 +59,7 @@ int main() {
 
             case 7: {
                 std::list<int> lst;
-                std::cout << "Zadejte prvky seznamu (konec zadavani -1): ";
+                std::cout << "Zadejte prvky seznamu (konec  zadavani -1): ";
                 while (true) {
                     int number;
                     std::cin >> number;

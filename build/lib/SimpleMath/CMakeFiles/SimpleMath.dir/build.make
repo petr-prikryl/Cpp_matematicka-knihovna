@@ -73,15 +73,15 @@ lib/SimpleMath/CMakeFiles/SimpleMath.dir/SimpleMath.cpp.obj: lib/SimpleMath/CMak
 lib/SimpleMath/CMakeFiles/SimpleMath.dir/SimpleMath.cpp.obj: C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc\ reseni/cvikoprvni/Cpp_matematicka-knihovna/lib/SimpleMath/SimpleMath.cpp
 lib/SimpleMath/CMakeFiles/SimpleMath.dir/SimpleMath.cpp.obj: lib/SimpleMath/CMakeFiles/SimpleMath.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object lib/SimpleMath/CMakeFiles/SimpleMath.dir/SimpleMath.cpp.obj"
-	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build\lib\SIMPLE~1 && C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT lib/SimpleMath/CMakeFiles/SimpleMath.dir/SimpleMath.cpp.obj -MF CMakeFiles\SimpleMath.dir\SimpleMath.cpp.obj.d -o CMakeFiles\SimpleMath.dir\SimpleMath.cpp.obj -c "C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\lib\SimpleMath\SimpleMath.cpp"
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build\lib\SIMPLE~1 && C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT lib/SimpleMath/CMakeFiles/SimpleMath.dir/SimpleMath.cpp.obj -MF CMakeFiles\SimpleMath.dir\SimpleMath.cpp.obj.d -o CMakeFiles\SimpleMath.dir\SimpleMath.cpp.obj -c "C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\lib\SimpleMath\SimpleMath.cpp"
 
 lib/SimpleMath/CMakeFiles/SimpleMath.dir/SimpleMath.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SimpleMath.dir/SimpleMath.cpp.i"
-	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build\lib\SIMPLE~1 && C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\lib\SimpleMath\SimpleMath.cpp" > CMakeFiles\SimpleMath.dir\SimpleMath.cpp.i
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build\lib\SIMPLE~1 && C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\lib\SimpleMath\SimpleMath.cpp" > CMakeFiles\SimpleMath.dir\SimpleMath.cpp.i
 
 lib/SimpleMath/CMakeFiles/SimpleMath.dir/SimpleMath.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SimpleMath.dir/SimpleMath.cpp.s"
-	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build\lib\SIMPLE~1 && C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\lib\SimpleMath\SimpleMath.cpp" -o CMakeFiles\SimpleMath.dir\SimpleMath.cpp.s
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build\lib\SIMPLE~1 && C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\lib\SimpleMath\SimpleMath.cpp" -o CMakeFiles\SimpleMath.dir\SimpleMath.cpp.s
 
 # Object files for target SimpleMath
 SimpleMath_OBJECTS = \

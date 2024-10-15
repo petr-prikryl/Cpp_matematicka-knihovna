@@ -174,6 +174,44 @@ SimpleMath_test/fast:
 	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\SimpleMath_test.dir\build.make test/CMakeFiles/SimpleMath_test.dir/build
 .PHONY : SimpleMath_test/fast
 
+# Convenience name for target.
+test/CMakeFiles/Math_test.dir/rule:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 test/CMakeFiles/Math_test.dir/rule
+.PHONY : test/CMakeFiles/Math_test.dir/rule
+
+# Convenience name for target.
+Math_test: test/CMakeFiles/Math_test.dir/rule
+.PHONY : Math_test
+
+# fast build rule for target.
+Math_test/fast:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\Math_test.dir\build.make test/CMakeFiles/Math_test.dir/build
+.PHONY : Math_test/fast
+
+Math_test.obj: Math_test.cpp.obj
+.PHONY : Math_test.obj
+
+# target to build an object file
+Math_test.cpp.obj:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\Math_test.dir\build.make test/CMakeFiles/Math_test.dir/Math_test.cpp.obj
+.PHONY : Math_test.cpp.obj
+
+Math_test.i: Math_test.cpp.i
+.PHONY : Math_test.i
+
+# target to preprocess a source file
+Math_test.cpp.i:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\Math_test.dir\build.make test/CMakeFiles/Math_test.dir/Math_test.cpp.i
+.PHONY : Math_test.cpp.i
+
+Math_test.s: Math_test.cpp.s
+.PHONY : Math_test.s
+
+# target to generate assembly for a file
+Math_test.cpp.s:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f test\CMakeFiles\Math_test.dir\build.make test/CMakeFiles/Math_test.dir/Math_test.cpp.s
+.PHONY : Math_test.cpp.s
+
 SimpleMath_test.obj: SimpleMath_test.cpp.obj
 .PHONY : SimpleMath_test.obj
 
@@ -210,7 +248,11 @@ help:
 	@echo ... install/strip
 	@echo ... list_install_components
 	@echo ... rebuild_cache
+	@echo ... Math_test
 	@echo ... SimpleMath_test
+	@echo ... Math_test.obj
+	@echo ... Math_test.i
+	@echo ... Math_test.s
 	@echo ... SimpleMath_test.obj
 	@echo ... SimpleMath_test.i
 	@echo ... SimpleMath_test.s

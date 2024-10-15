@@ -15,3 +15,9 @@ enable_testing()
 add_executable(SimpleMath_test SimpleMath_test.cpp)
 
 target_link_libraries(SimpleMath_test PUBLIC gtestik SimpleMath)
+
+
+add_executable(Math_test Math_test.cpp)
+
+target_link_libraries(Math_test PUBLIC gtestik Math)
+

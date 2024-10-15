@@ -159,4 +159,5 @@ CMakeFiles/my_main.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/numeric \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_numeric.h \
  C:/msys64/ucrt64/include/c++/13.2.0/pstl/glue_numeric_defs.h \
- C:/msys64/ucrt64/include/c++/13.2.0/pstl/execution_defs.h
+ C:/msys64/ucrt64/include/c++/13.2.0/pstl/execution_defs.h \
+ C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/lib/Math/include/Math.h

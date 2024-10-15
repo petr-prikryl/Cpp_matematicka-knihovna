@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(my_main main.cpp)
 target_link_libraries(my_main PUBLIC SimpleMath)
+target_link_libraries(my_main PUBLIC Math)
 
 add_subdirectory(lib)
 add_subdirectory(test)

@@ -18,7 +18,15 @@ C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-kniho
 C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/SimpleMath/CMakeFiles/install.dir
 C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/SimpleMath/CMakeFiles/install/local.dir
 C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/SimpleMath/CMakeFiles/install/strip.dir
+C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/Math/CMakeFiles/Math.dir
+C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/Math/CMakeFiles/edit_cache.dir
+C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/Math/CMakeFiles/rebuild_cache.dir
+C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/Math/CMakeFiles/list_install_components.dir
+C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/Math/CMakeFiles/install.dir
+C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/Math/CMakeFiles/install/local.dir
+C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/Math/CMakeFiles/install/strip.dir
 C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/test/CMakeFiles/SimpleMath_test.dir
+C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/test/CMakeFiles/Math_test.dir
 C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/test/CMakeFiles/edit_cache.dir
 C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/test/CMakeFiles/rebuild_cache.dir
 C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/test/CMakeFiles/list_install_components.dir

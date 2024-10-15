@@ -73,15 +73,15 @@ CMakeFiles/my_main.dir/main.cpp.obj: CMakeFiles/my_main.dir/includes_CXX.rsp
 CMakeFiles/my_main.dir/main.cpp.obj: C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc\ reseni/cvikoprvni/Cpp_matematicka-knihovna/main.cpp
 CMakeFiles/my_main.dir/main.cpp.obj: CMakeFiles/my_main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/my_main.dir/main.cpp.obj"
-	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_main.dir/main.cpp.obj -MF CMakeFiles\my_main.dir\main.cpp.obj.d -o CMakeFiles\my_main.dir\main.cpp.obj -c "C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\main.cpp"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_main.dir/main.cpp.obj -MF CMakeFiles\my_main.dir\main.cpp.obj.d -o CMakeFiles\my_main.dir\main.cpp.obj -c "C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\main.cpp"
 
 CMakeFiles/my_main.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/my_main.dir/main.cpp.i"
-	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\main.cpp" > CMakeFiles\my_main.dir\main.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\main.cpp" > CMakeFiles\my_main.dir\main.cpp.i
 
 CMakeFiles/my_main.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/my_main.dir/main.cpp.s"
-	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\main.cpp" -o CMakeFiles\my_main.dir\main.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc reseni\cvikoprvni\Cpp_matematicka-knihovna\main.cpp" -o CMakeFiles\my_main.dir\main.cpp.s
 
 # Object files for target my_main
 my_main_OBJECTS = \
@@ -93,6 +93,7 @@ my_main_EXTERNAL_OBJECTS =
 my_main.exe: CMakeFiles/my_main.dir/main.cpp.obj
 my_main.exe: CMakeFiles/my_main.dir/build.make
 my_main.exe: lib/SimpleMath/libSimpleMath.a
+my_main.exe: lib/Math/libMath.a
 my_main.exe: CMakeFiles/my_main.dir/linkLibs.rsp
 my_main.exe: CMakeFiles/my_main.dir/objects1.rsp
 my_main.exe: CMakeFiles/my_main.dir/link.txt

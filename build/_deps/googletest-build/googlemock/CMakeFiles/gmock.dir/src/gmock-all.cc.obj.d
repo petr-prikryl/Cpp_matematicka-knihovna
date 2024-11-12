@@ -23,12 +23,19 @@ _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/type_traits \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/move.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/utility.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/compare \
+ C:/msys64/ucrt64/include/c++/13.2.0/concepts \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_types.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/iterator_concepts.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ptr_traits.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_cmp.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_funcs.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/concept_check.h \
  C:/msys64/ucrt64/include/c++/13.2.0/debug/assertions.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/ptr_traits.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/new \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/exception.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_construct.h \
  C:/msys64/ucrt64/include/c++/13.2.0/debug/debug.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/predefined_ops.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bit \
@@ -38,9 +45,6 @@ _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_heap.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/uniform_int_dist.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_tempbuf.h \
- C:/msys64/ucrt64/include/c++/13.2.0/new \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/exception.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_construct.h \
  C:/msys64/ucrt64/include/c++/13.2.0/cstdlib \
  C:/msys64/ucrt64/include/stdlib.h \
  C:/msys64/ucrt64/include/corecrt_wstdlib.h \
@@ -52,6 +56,13 @@ _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: \
  C:/msys64/ucrt64/include/malloc.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/std_abs.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_algo.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_algobase.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_base.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/max_size_type.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/numbers \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/invoke.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_util.h \
  C:/msys64/ucrt64/include/c++/13.2.0/pstl/glue_algorithm_defs.h \
  C:/msys64/ucrt64/include/c++/13.2.0/pstl/execution_defs.h \
  C:/msys64/ucrt64/include/c++/13.2.0/functional \
@@ -59,7 +70,6 @@ _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/backward/binders.h \
  C:/msys64/ucrt64/include/c++/13.2.0/tuple \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/uses_allocator.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/invoke.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/functional_hash.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/hash_bytes.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/refwrap.h \
@@ -92,14 +102,14 @@ _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_bvector.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/vector.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/array \
- C:/msys64/ucrt64/include/c++/13.2.0/compare \
  C:/msys64/ucrt64/include/c++/13.2.0/memory \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_raw_storage_iter.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/align.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
  C:/msys64/ucrt64/include/stdint.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/unique_ptr.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/shared_ptr.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/ostream \
+ C:/msys64/ucrt64/include/c++/13.2.0/ios \
  C:/msys64/ucrt64/include/c++/13.2.0/iosfwd \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stringfwd.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/postypes.h \
@@ -110,8 +120,19 @@ _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: \
  C:/msys64/ucrt64/include/_mingw_stat64.h \
  C:/msys64/ucrt64/include/swprintf.inl \
  C:/msys64/ucrt64/include/sec_api/wchar_s.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/shared_ptr_base.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/allocated_ptr.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/exception \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/exception_ptr.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/cxxabi_init_exception.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/nested_exception.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/char_traits.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/localefwd.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++locale.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/clocale \
+ C:/msys64/ucrt64/include/locale.h C:/msys64/ucrt64/include/stdio.h \
+ C:/msys64/ucrt64/include/sec_api/stdio_s.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/cctype \
+ C:/msys64/ucrt64/include/ctype.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ios_base.h \
  C:/msys64/ucrt64/include/c++/13.2.0/ext/atomicity.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/gthr.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/gthr-default.h \
@@ -127,25 +148,8 @@ _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: \
  C:/msys64/ucrt64/include/pthread_compat.h \
  C:/msys64/ucrt64/include/pthread_unistd.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/atomic_word.h \
- C:/msys64/ucrt64/include/c++/13.2.0/ext/concurrence.h \
- C:/msys64/ucrt64/include/c++/13.2.0/exception \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/exception_ptr.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/cxxabi_init_exception.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/nested_exception.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/shared_ptr_atomic.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_base.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_lockfree_defines.h \
- C:/msys64/ucrt64/include/c++/13.2.0/backward/auto_ptr.h \
- C:/msys64/ucrt64/include/c++/13.2.0/pstl/glue_memory_defs.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_classes.h \
  C:/msys64/ucrt64/include/c++/13.2.0/string \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/char_traits.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/localefwd.h \
- C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++locale.h \
- C:/msys64/ucrt64/include/c++/13.2.0/clocale \
- C:/msys64/ucrt64/include/locale.h C:/msys64/ucrt64/include/stdio.h \
- C:/msys64/ucrt64/include/sec_api/stdio_s.h \
- C:/msys64/ucrt64/include/c++/13.2.0/cctype \
- C:/msys64/ucrt64/include/ctype.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream_insert.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/cxxabi_forced.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/basic_string.h \
@@ -156,13 +160,6 @@ _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/cerrno \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/charconv.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/basic_string.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/utility \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_relops.h \
- C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/build/_deps/GOOGLE~2/GOOGLE~1/include/gmock/internal/gmock-internal-utils.h \
- C:/msys64/ucrt64/include/c++/13.2.0/ostream \
- C:/msys64/ucrt64/include/c++/13.2.0/ios \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/ios_base.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_classes.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_classes.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/system_error \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/error_constants.h \
@@ -179,6 +176,21 @@ _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_facets.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/basic_ios.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream.tcc \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/shared_ptr.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/shared_ptr_base.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/allocated_ptr.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/ext/concurrence.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/shared_ptr_atomic.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_base.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_lockfree_defines.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_wait.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/std_mutex.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/backward/auto_ptr.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_uninitialized.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/pstl/glue_memory_defs.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/utility \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_relops.h \
+ C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/build/_deps/GOOGLE~2/GOOGLE~1/include/gmock/internal/gmock-internal-utils.h \
  C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/build/_deps/GOOGLE~2/GOOGLE~1/include/gmock/internal/gmock-port.h \
  C:/msys64/ucrt64/include/assert.h \
  C:/msys64/ucrt64/include/c++/13.2.0/cstdint \
@@ -206,8 +218,15 @@ _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/chrono.h \
  C:/msys64/ucrt64/include/c++/13.2.0/ratio \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/parse_numbers.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/std_mutex.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/unique_lock.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/stop_token \
+ C:/msys64/ucrt64/include/c++/13.2.0/atomic \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/std_thread.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/semaphore \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/semaphore_base.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_timed_wait.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/this_thread_sleep.h \
+ C:/msys64/ucrt64/include/semaphore.h \
  C:/msys64/ucrt64/include/c++/13.2.0/mutex \
  C:/msys64/ucrt64/include/c++/13.2.0/any \
  C:/msys64/ucrt64/include/c++/13.2.0/optional \
@@ -220,7 +239,6 @@ _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: \
  C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/build/_deps/GOOGLE~2/GOOGLE~2/include/gtest/gtest-death-test.h \
  C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/build/_deps/GOOGLE~2/GOOGLE~2/include/gtest/internal/gtest-death-test-internal.h \
  C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/build/_deps/GOOGLE~2/GOOGLE~2/include/gtest/gtest-matchers.h \
- C:/msys64/ucrt64/include/c++/13.2.0/atomic \
  C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/build/_deps/GOOGLE~2/GOOGLE~2/include/gtest/gtest-printers.h \
  C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/build/_deps/GOOGLE~2/GOOGLE~2/include/gtest/internal/gtest-internal.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/float.h \

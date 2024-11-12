@@ -174,6 +174,58 @@ Math/fast:
 	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f lib\Math\CMakeFiles\Math.dir\build.make lib/Math/CMakeFiles/Math.dir/build
 .PHONY : Math/fast
 
+# Convenience name for target.
+lib/Math/CMakeFiles/Time22.dir/rule:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lib/Math/CMakeFiles/Time22.dir/rule
+.PHONY : lib/Math/CMakeFiles/Time22.dir/rule
+
+# Convenience name for target.
+Time22: lib/Math/CMakeFiles/Time22.dir/rule
+.PHONY : Time22
+
+# fast build rule for target.
+Time22/fast:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f lib\Math\CMakeFiles\Time22.dir\build.make lib/Math/CMakeFiles/Time22.dir/build
+.PHONY : Time22/fast
+
+# Convenience name for target.
+lib/Math/CMakeFiles/Duration.dir/rule:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lib/Math/CMakeFiles/Duration.dir/rule
+.PHONY : lib/Math/CMakeFiles/Duration.dir/rule
+
+# Convenience name for target.
+Duration: lib/Math/CMakeFiles/Duration.dir/rule
+.PHONY : Duration
+
+# fast build rule for target.
+Duration/fast:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f lib\Math\CMakeFiles\Duration.dir\build.make lib/Math/CMakeFiles/Duration.dir/build
+.PHONY : Duration/fast
+
+Duration.obj: Duration.cpp.obj
+.PHONY : Duration.obj
+
+# target to build an object file
+Duration.cpp.obj:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f lib\Math\CMakeFiles\Duration.dir\build.make lib/Math/CMakeFiles/Duration.dir/Duration.cpp.obj
+.PHONY : Duration.cpp.obj
+
+Duration.i: Duration.cpp.i
+.PHONY : Duration.i
+
+# target to preprocess a source file
+Duration.cpp.i:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f lib\Math\CMakeFiles\Duration.dir\build.make lib/Math/CMakeFiles/Duration.dir/Duration.cpp.i
+.PHONY : Duration.cpp.i
+
+Duration.s: Duration.cpp.s
+.PHONY : Duration.s
+
+# target to generate assembly for a file
+Duration.cpp.s:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f lib\Math\CMakeFiles\Duration.dir\build.make lib/Math/CMakeFiles/Duration.dir/Duration.cpp.s
+.PHONY : Duration.cpp.s
+
 Math.obj: Math.cpp.obj
 .PHONY : Math.obj
 
@@ -198,6 +250,30 @@ Math.cpp.s:
 	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f lib\Math\CMakeFiles\Math.dir\build.make lib/Math/CMakeFiles/Math.dir/Math.cpp.s
 .PHONY : Math.cpp.s
 
+Time22.obj: Time22.cpp.obj
+.PHONY : Time22.obj
+
+# target to build an object file
+Time22.cpp.obj:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f lib\Math\CMakeFiles\Time22.dir\build.make lib/Math/CMakeFiles/Time22.dir/Time22.cpp.obj
+.PHONY : Time22.cpp.obj
+
+Time22.i: Time22.cpp.i
+.PHONY : Time22.i
+
+# target to preprocess a source file
+Time22.cpp.i:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f lib\Math\CMakeFiles\Time22.dir\build.make lib/Math/CMakeFiles/Time22.dir/Time22.cpp.i
+.PHONY : Time22.cpp.i
+
+Time22.s: Time22.cpp.s
+.PHONY : Time22.s
+
+# target to generate assembly for a file
+Time22.cpp.s:
+	cd /d C:\Users\petrp\ownCloud\Skola\5ap5pc\1SCRES~1\CVIKOP~1\CPP_MA~1\build && $(MAKE) $(MAKESILENT) -f lib\Math\CMakeFiles\Time22.dir\build.make lib/Math/CMakeFiles/Time22.dir/Time22.cpp.s
+.PHONY : Time22.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -210,10 +286,18 @@ help:
 	@echo ... install/strip
 	@echo ... list_install_components
 	@echo ... rebuild_cache
+	@echo ... Duration
 	@echo ... Math
+	@echo ... Time22
+	@echo ... Duration.obj
+	@echo ... Duration.i
+	@echo ... Duration.s
 	@echo ... Math.obj
 	@echo ... Math.i
 	@echo ... Math.s
+	@echo ... Time22.obj
+	@echo ... Time22.i
+	@echo ... Time22.s
 .PHONY : help
 
 

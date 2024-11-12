@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libTime22.a CMakeFiles/Time22.dir/Time22.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libTime22.a

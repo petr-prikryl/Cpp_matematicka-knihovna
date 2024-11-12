@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libTime.a CMakeFiles/Time.dir/Time.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libTime.a

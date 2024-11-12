@@ -1,5 +1,6 @@
 CMakeFiles/my_main.dir/main.cpp.obj: \
  C:\Users\petrp\ownCloud\Skola\5ap5pc\1sc\ reseni\cvikoprvni\Cpp_matematicka-knihovna\main.cpp \
+ C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/lib/Math/include/Time22.h \
  C:/msys64/ucrt64/include/c++/13.2.0/iostream \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/requires_hosted.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -38,6 +39,16 @@ CMakeFiles/my_main.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/type_traits \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/nested_exception.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/char_traits.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/compare \
+ C:/msys64/ucrt64/include/c++/13.2.0/concepts \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_construct.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_types.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/iterator_concepts.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ptr_traits.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_cmp.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_funcs.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/concept_check.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/debug/assertions.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/localefwd.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++locale.h \
  C:/msys64/ucrt64/include/c++/13.2.0/clocale \
@@ -72,13 +83,8 @@ CMakeFiles/my_main.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/cpp_type_traits.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream_insert.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/cxxabi_forced.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_funcs.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/concept_check.h \
- C:/msys64/ucrt64/include/c++/13.2.0/debug/assertions.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator_base_types.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator.h \
  C:/msys64/ucrt64/include/c++/13.2.0/ext/type_traits.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/ptr_traits.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_function.h \
  C:/msys64/ucrt64/include/c++/13.2.0/backward/binders.h \
  C:/msys64/ucrt64/include/c++/13.2.0/ext/numeric_traits.h \
@@ -95,9 +101,11 @@ CMakeFiles/my_main.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/basic_string.h \
  C:/msys64/ucrt64/include/c++/13.2.0/ext/alloc_traits.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/alloc_traits.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_construct.h \
  C:/msys64/ucrt64/include/c++/13.2.0/string_view \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/functional_hash.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_base.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/max_size_type.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/numbers \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/string_view.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/ext/string_conversions.h \
  C:/msys64/ucrt64/include/c++/13.2.0/cstdlib \
@@ -116,6 +124,7 @@ CMakeFiles/my_main.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/uses_allocator.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/uses_allocator_args.h \
  C:/msys64/ucrt64/include/c++/13.2.0/tuple \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/ranges_util.h \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/locale_classes.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/system_error \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/error_constants.h \
@@ -134,30 +143,4 @@ CMakeFiles/my_main.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/istream \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/list \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_list.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/allocated_ptr.h \
- C:/msys64/ucrt64/include/c++/13.2.0/ext/aligned_buffer.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/list.tcc \
- C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/lib/SIMPLE~1/include/SimpleMath.h \
- C:/msys64/ucrt64/include/c++/13.2.0/cmath \
- C:/msys64/ucrt64/include/math.h \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/specfun.h \
- C:/msys64/ucrt64/include/c++/13.2.0/limits \
- C:/msys64/ucrt64/include/c++/13.2.0/tr1/gamma.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/tr1/special_function_util.h \
- C:/msys64/ucrt64/include/c++/13.2.0/tr1/bessel_function.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/tr1/beta_function.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/tr1/ell_integral.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/tr1/exp_integral.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/tr1/hypergeometric.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/tr1/legendre_function.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/tr1/modified_bessel_func.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/tr1/poly_hermite.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/tr1/poly_laguerre.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/tr1/riemann_zeta.tcc \
- C:/msys64/ucrt64/include/c++/13.2.0/numeric \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_numeric.h \
- C:/msys64/ucrt64/include/c++/13.2.0/pstl/glue_numeric_defs.h \
- C:/msys64/ucrt64/include/c++/13.2.0/pstl/execution_defs.h \
- C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/lib/Math/include/Math.h
+ C:/Users/petrp/ownCloud/Skola/5ap5pc/1SCRES~1/CVIKOP~1/CPP_MA~1/lib/Math/include/Duration.h

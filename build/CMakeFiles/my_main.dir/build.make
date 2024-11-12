@@ -94,6 +94,8 @@ my_main.exe: CMakeFiles/my_main.dir/main.cpp.obj
 my_main.exe: CMakeFiles/my_main.dir/build.make
 my_main.exe: lib/SimpleMath/libSimpleMath.a
 my_main.exe: lib/Math/libMath.a
+my_main.exe: lib/Math/libTime22.a
+my_main.exe: lib/Math/libDuration.a
 my_main.exe: CMakeFiles/my_main.dir/linkLibs.rsp
 my_main.exe: CMakeFiles/my_main.dir/objects1.rsp
 my_main.exe: CMakeFiles/my_main.dir/link.txt

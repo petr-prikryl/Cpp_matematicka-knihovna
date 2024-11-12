@@ -1,5 +1,8 @@
 // Math.cpp
 #include "Math.h"
+#include "Point.h"
+#include "Vector.h"
+#include <iostream>
 
 namespace Math {
 

@@ -1,6 +1,8 @@
 // Math.h
 #pragma once
-
+#include "Point.h"
+#include "Vector.h"
+#include <iostream>
 namespace Math {
 
     struct Point {

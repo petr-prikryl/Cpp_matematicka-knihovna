@@ -1,55 +1,67 @@
 [
 {
   "directory": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/my_main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\my_main.dir\\main.cpp.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\main.cpp\"",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/my_main.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\my_main.dir\\main.cpp.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\main.cpp\"",
   "file": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/main.cpp",
   "output": "CMakeFiles/my_main.dir/main.cpp.obj"
 },
 {
   "directory": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/SimpleMath",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SimpleMath.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SimpleMath.dir\\SimpleMath.cpp.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\lib\\SimpleMath\\SimpleMath.cpp\"",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SimpleMath.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\SimpleMath.dir\\SimpleMath.cpp.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\lib\\SimpleMath\\SimpleMath.cpp\"",
   "file": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/lib/SimpleMath/SimpleMath.cpp",
   "output": "lib/SimpleMath/CMakeFiles/SimpleMath.dir/SimpleMath.cpp.obj"
 },
 {
   "directory": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/Math",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Math.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Math.dir\\Math.cpp.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\lib\\Math\\Math.cpp\"",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Duration.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Duration.dir\\Duration.cpp.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\lib\\Math\\Duration.cpp\"",
+  "file": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/lib/Math/Duration.cpp",
+  "output": "lib/Math/CMakeFiles/Duration.dir/Duration.cpp.obj"
+},
+{
+  "directory": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/Math",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Math.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Math.dir\\Math.cpp.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\lib\\Math\\Math.cpp\"",
   "file": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/lib/Math/Math.cpp",
   "output": "lib/Math/CMakeFiles/Math.dir/Math.cpp.obj"
 },
 {
+  "directory": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/lib/Math",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Time22.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Time22.dir\\Time22.cpp.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\lib\\Math\\Time22.cpp\"",
+  "file": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/lib/Math/Time22.cpp",
+  "output": "lib/Math/CMakeFiles/Time22.dir/Time22.cpp.obj"
+},
+{
   "directory": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/test",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SimpleMath_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SimpleMath_test.dir\\SimpleMath_test.cpp.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\test\\SimpleMath_test.cpp\"",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SimpleMath_test.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\SimpleMath_test.dir\\SimpleMath_test.cpp.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\test\\SimpleMath_test.cpp\"",
   "file": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/test/SimpleMath_test.cpp",
   "output": "test/CMakeFiles/SimpleMath_test.dir/SimpleMath_test.cpp.obj"
 },
 {
   "directory": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/test",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Math_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Math_test.dir\\Math_test.cpp.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\test\\Math_test.cpp\"",
-  "file": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/test/Math_test.cpp",
-  "output": "test/CMakeFiles/Math_test.dir/Math_test.cpp.obj"
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TimeTests.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\TimeTests.dir\\TimeTests.cpp.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\test\\TimeTests.cpp\"",
+  "file": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/test/TimeTests.cpp",
+  "output": "test/CMakeFiles/TimeTests.dir/TimeTests.cpp.obj"
 },
 {
   "directory": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/_deps/googletest-build/googlemock",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc\"",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc\"",
   "file": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
   "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
 },
 {
   "directory": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/_deps/googletest-build/googlemock",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc\"",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc\"",
   "file": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
   "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
 },
 {
   "directory": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/_deps/googletest-build/googletest",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc\"",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc\"",
   "file": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/_deps/googletest-src/googletest/src/gtest-all.cc",
   "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
 },
 {
   "directory": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/_deps/googletest-build/googletest",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc\"",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\petrp\\ownCloud\\Skola\\5ap5pc\\1sc reseni\\cvikoprvni\\Cpp_matematicka-knihovna\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc\"",
   "file": "C:/Users/petrp/ownCloud/Skola/5ap5pc/1sc reseni/cvikoprvni/Cpp_matematicka-knihovna/build/_deps/googletest-src/googletest/src/gtest_main.cc",
   "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
 }

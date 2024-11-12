@@ -200,6 +200,32 @@ Math/fast:
 .PHONY : Math/fast
 
 #=============================================================================
+# Target rules for targets named Time22
+
+# Build rule for target.
+Time22: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Time22
+.PHONY : Time22
+
+# fast build rule for target.
+Time22/fast:
+	$(MAKE) $(MAKESILENT) -f lib\Math\CMakeFiles\Time22.dir\build.make lib/Math/CMakeFiles/Time22.dir/build
+.PHONY : Time22/fast
+
+#=============================================================================
+# Target rules for targets named Duration
+
+# Build rule for target.
+Duration: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Duration
+.PHONY : Duration
+
+# fast build rule for target.
+Duration/fast:
+	$(MAKE) $(MAKESILENT) -f lib\Math\CMakeFiles\Duration.dir\build.make lib/Math/CMakeFiles/Duration.dir/build
+.PHONY : Duration/fast
+
+#=============================================================================
 # Target rules for targets named SimpleMath_test
 
 # Build rule for target.
@@ -213,17 +239,17 @@ SimpleMath_test/fast:
 .PHONY : SimpleMath_test/fast
 
 #=============================================================================
-# Target rules for targets named Math_test
+# Target rules for targets named TimeTests
 
 # Build rule for target.
-Math_test: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Math_test
-.PHONY : Math_test
+TimeTests: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 TimeTests
+.PHONY : TimeTests
 
 # fast build rule for target.
-Math_test/fast:
-	$(MAKE) $(MAKESILENT) -f test\CMakeFiles\Math_test.dir\build.make test/CMakeFiles/Math_test.dir/build
-.PHONY : Math_test/fast
+TimeTests/fast:
+	$(MAKE) $(MAKESILENT) -f test\CMakeFiles\TimeTests.dir\build.make test/CMakeFiles/TimeTests.dir/build
+.PHONY : TimeTests/fast
 
 #=============================================================================
 # Target rules for targets named gmock
@@ -313,10 +339,12 @@ help:
 	@echo ... install/strip
 	@echo ... list_install_components
 	@echo ... rebuild_cache
+	@echo ... Duration
 	@echo ... Math
-	@echo ... Math_test
 	@echo ... SimpleMath
 	@echo ... SimpleMath_test
+	@echo ... Time22
+	@echo ... TimeTests
 	@echo ... gmock
 	@echo ... gmock_main
 	@echo ... gtest
